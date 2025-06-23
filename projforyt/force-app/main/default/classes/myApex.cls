@@ -5,5 +5,6 @@ public class myApex{
     Integer a=20;
     Integer b=30;
 System.debug('Happy Learning Apex');
+System.debug('Happy Learning Apex101');
 }
 
