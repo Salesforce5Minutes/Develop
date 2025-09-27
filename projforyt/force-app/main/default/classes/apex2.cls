@@ -4,4 +4,8 @@ public class apex2{
     String message2='Lets go to park at 6';
     String message3='Hello World';
 
+    public static void myFunction(){
+
+        System.debug('Hello World');
+    }
 }
