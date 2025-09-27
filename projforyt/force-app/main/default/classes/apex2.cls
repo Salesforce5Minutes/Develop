@@ -4,6 +4,7 @@ public class apex2{
     String message2='Lets go to park at 6';
     String message3='Hello World';
     String message6='Test Data';
+    String message7='Test Data';
 
     public static void myFunction(){
 
