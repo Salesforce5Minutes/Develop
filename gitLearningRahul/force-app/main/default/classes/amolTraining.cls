@@ -5,8 +5,7 @@ public class amolTraining {
     
     public amolTraining(String name)
     {
-        System.debug('Hi '+name);
-        System.debug('Hi '+name);
+        
     }
     
     public static void myMethod()
