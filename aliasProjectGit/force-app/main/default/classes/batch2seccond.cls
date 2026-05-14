@@ -20,7 +20,7 @@ public class batch2seccond implements Database.Batchable<sObject>,Database.state
         
         for(Account acc : accList)
         {
-         
+         System.debug('Hello 123');
         }
         
     }
