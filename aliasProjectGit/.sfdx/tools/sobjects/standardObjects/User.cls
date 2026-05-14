@@ -2314,5 +2314,6 @@ global class User {
 
     global User () 
     {
+        System.debug('Test');
     }
 }
